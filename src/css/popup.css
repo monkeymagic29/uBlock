@@ -148,7 +148,8 @@ p {
     opacity: 0.9;
     }
 body.off #switch .fa {
-    color: #ccc;
+    color: #555;
+    opacity: 0.2;
     }
 #page-blocked {
     font-size: 1.25em;
